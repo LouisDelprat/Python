@@ -5,6 +5,17 @@ vous pourrez trouver le code permettant de verifier la loi binomiale et sa conve
 ## Principe
 on realise n tirages avec une probabilité de succes p
 on compte le nombre de succes. C'est notre statistique X.
+L'image ci-dessous represente les succes et les echecs 20 epreuves repetées 10 fois
+
+```
+n = 20
+nb_tirages = 10
+p=0.3
+
+```
+
+![](https://github.com/LouisDelprat/probabilit-en-python/blob/main/exemple_tirage.PNG)
+
 La loi binomiale permet de calculer la probabilité d'avoir k succes 
 elle est noté X ~B(n,k)
 
