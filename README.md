@@ -56,6 +56,8 @@ p=0.3
  ```
 on voit que la loi binomiale( courbe vert) et la loi normale( courbe violette) sont identiques car n est grand.
 Par contre on n'a pas fait assez de tirages(nb_tirages petit) donc les probabilités mesurées n'ont pas cpnverges vers la loi binomiale. 
+
+
 ![](https://github.com/LouisDelprat/probabilit-en-python/blob/main/proba_exemple3.PNG)
 
 
